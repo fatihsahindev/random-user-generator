@@ -1,2 +1,3 @@
-# random-user-generator
-Random User Generator
+# Random User Generator
+
+- [Live Demo](https://fatihsahindev.github.io/random-user-generator)
